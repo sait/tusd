@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/tus/tusd"
+	"github.com/sait/tusd"
 )
 
 // Setups the different components, starts a Listener and give it to

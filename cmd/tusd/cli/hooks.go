@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/tus/tusd"
-	"github.com/tus/tusd/cmd/tusd/cli/hooks"
+	"github.com/sait/tusd"
+	"github.com/sait/tusd/cmd/tusd/cli/hooks"
 )
 
 var hookHandler hooks.HookHandler = nil
